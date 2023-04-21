@@ -1,0 +1,2 @@
+class Circle extends TwoDShape {
+}
